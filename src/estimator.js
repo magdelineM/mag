@@ -14,8 +14,8 @@ totalHospitalBeds: 1380614
 return 
   impact:{currentlyInfected:reportedCases*10},
   severeImpact:{currentlyinfected:reportedCases*50},
-  impact:{infectionsByRequestedTime:currentlyInfected*(512)
-  severeImpact:{infectionsByRequestedTime:currentlyInfected*(512)
+  impact:{infectionsByRequestedTime:currentlyInfected*(512)},
+  severeImpact:{infectionsByRequestedTime:currentlyInfected*(512)}
   
 }
 
