@@ -17,6 +17,15 @@ return
   impact:{infectionsByRequestedTime:currentlyInfected*(512)},
   severeImpact:{infectionsByRequestedTime:currentlyInfected*(512)}
   
-}
+},
 
 export default covid19ImpactEstimator;
+return impact:{6740},
+       severeImpact:{33700},
+       impact:{3450880},
+       severeImpact:{17254400},
+       severeCasesByRequestedTime:{517632},
+       severeCasesByRequestedTime:{2588160},
+       hospitalBedsRequestedTime:{13},
+       hospitalBedsRequestedTime:{66},
+}
